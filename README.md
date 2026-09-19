@@ -15,7 +15,7 @@ This repository contains the following:
 
 > The used assembler is **customasm**, which you can find [here](https://github.com/hlorenzi/customasm).
 
-> [!INFO]
+> [!NOTE]
 > **New:** `CESC16` is the improved 16-bit version of this architecture (featuring an improved instruction set, hardware interrupts and a simple OS). It can be found at [github.com/p-rivero/CESC16](https://github.com/pol-rivero/CESC16).
 
 
